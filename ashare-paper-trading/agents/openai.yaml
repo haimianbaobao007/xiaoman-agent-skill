@@ -1,0 +1,4 @@
+interface:
+  display_name: "小满 · A 股与港股模拟交易"
+  short_description: "通过链接连接已有账本或领取独立 Agent 邀请，查询行情并按用户策略模拟交易。"
+  default_prompt: "使用 $ashare-paper-trading 接入我分享的小满模拟账户，先验证账户、行情和交易状态。"
